@@ -7,6 +7,7 @@ I used a collected diverse private dataset consist from 10,000 images.
 - Transformations included Normalization, Converting to Tensor, Random Resize, and Crop.
 ### Results
 > ### **Accuracy and Loss Curves over Epochs**
+
 > ![Accuracy and Loss Curves to Epochs](./media/ViT-Accuracy-Curve-Loss-Curve-Masaoodi.png)
 
 > ### **Confusion Matrix**
@@ -14,4 +15,5 @@ I used a collected diverse private dataset consist from 10,000 images.
 
 > ### **Unseen Batch Testing Samples**
 > ![Unseen Batch Testing Sample](./media/Batch-Testing-Masaoodi.png)
+
 > ![Unseen Batch Testing Sample](./media/ViT-Test-Masaoodi.png)
